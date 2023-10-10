@@ -3,7 +3,22 @@ guid: 5f95476e888981e4b8b5d86a9d76c6f3
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cotton_14_Wale_Corduroy_FRONT_1964
+    second: {fileID: 2100000, guid: 6728ae67bdc74474281d43df61e539b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cotton_14_Wale_Corduroy_FRONT_1973
+    second: {fileID: 2100000, guid: 6728ae67bdc74474281d43df61e539b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2158
+    second: {fileID: 2100000, guid: 6728ae67bdc74474281d43df61e539b2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

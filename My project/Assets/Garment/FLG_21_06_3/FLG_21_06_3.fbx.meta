@@ -3,7 +3,27 @@ guid: 3a1bf1daab1a70445bb6d8ae4c3d1b96
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Denim_Raw_FRONT_1964
+    second: {fileID: 2100000, guid: 5a315702d92c49a409e041dd490491e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material1889
+    second: {fileID: 2100000, guid: 5a315702d92c49a409e041dd490491e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2175
+    second: {fileID: 2100000, guid: 5a315702d92c49a409e041dd490491e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2305
+    second: {fileID: 2100000, guid: 5a315702d92c49a409e041dd490491e4, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
